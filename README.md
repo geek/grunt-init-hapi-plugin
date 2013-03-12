@@ -9,7 +9,7 @@
 After [grunt-init][] is installed, place this template in your `~/.grunt-init/` directory.  This can be done by cloning this repo into the folder
 
 ```
-git clone git@github.com:wpreul/grunt-init-hapi-plugin.git ~/.grunt-init/hapi
+git clone git@github.com:wpreul/grunt-init-hapi-plugin.git ~/.grunt-init/hapi-plugin
 ```
 
 ## Usage
@@ -17,5 +17,5 @@ git clone git@github.com:wpreul/grunt-init-hapi-plugin.git ~/.grunt-init/hapi
 Create an empty directory, change directories into it then run the following command.
 
 ```
-grunt-init hapi
+grunt-init hapi-plugin
 ```
